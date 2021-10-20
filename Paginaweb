@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Combinadores 15-10 Paginas web</title>
+    <link rel= "stylesheet" href="/CLASES CSS 2°UNIDAD/ClaseCombinadores/ClaseCombinadores2/style.css">
+</head>
+<body>
+<div>   
+    <h2> Codigo en HTML </h2>
+    <p> ADG </p>
+    <p>  Un combinador es algo que explica la relación entre los selectores. Un selector de CSS </p>
+    <h2> Pre Requisitos </h2>    
+    <h3> Codigo CSS</h3>
+    <p>  Y Como usarlo para estilizar HTML</p>
+    <h2> Módulos </h2>
+    <p> Conocer los diferentes selectores de combinación que se pueden utilizar en el    </p>
+</div>     
+<article>
+    <h1> Este es un encabezado </h1>
+    <p> AQUI HAY UN TEXTO GRANDE</p>
+    <div>Contenedor</div>
+    <p>parrafo aquí</p>
+   
+    
+</article>
+
+
+<ul>
+    <li> Html </li>
+    <li> CSS </li>
+        <ol>
+            <li> Selectores </li>
+            <li> Reglas </li>
+            <li> Atributos </li>
+
+        </ol>
+    <li> JAVA SCRIPT </li>    
+
+</ul>
+
+</body>
+</html>
